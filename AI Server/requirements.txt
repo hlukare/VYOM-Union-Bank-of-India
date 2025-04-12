@@ -1,0 +1,8 @@
+Flask
+celery
+redis
+requests
+gdown
+moviepy
+faster_whisper
+python-dotenv

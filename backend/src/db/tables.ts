@@ -1,0 +1,16 @@
+export const tables = {
+    accounts: "accounts",
+    auditLogs: "audit_logs",
+    branches: "branches",
+    employees: "employees",
+    feedbacks: "feedbacks",
+    loans: "loans",
+    serviceTickets: "service_tickets",
+    transactions: "transactions",
+    userAddresses: "user_addresses",
+    userKYCDocuments: "user_kyc_documents",
+    userOtps: "user_otps",
+    users: "users",
+    videoKYCSessions: "video_kyc_sessions",
+    videoQueries: "video_queries",
+};
