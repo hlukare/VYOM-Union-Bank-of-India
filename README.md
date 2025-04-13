@@ -108,7 +108,6 @@ npm start
 
 ## 🔗 Resources & Links
 
-- 💻 [GitHub Repo](https://github.com/hlukare/IDEA-Hackathon.git)
 - 📹 [Video Demo](https://drive.google.com/drive/folders/1sqSezMd3wVayeotc4GjtVheXX2aeYRwP?usp=sharing)
 - 📄 [Research & Flowchart](https://drive.google.com/drive/folders/1_daZShTdgOwwy1Hf2JCDrXtBUTH7T4gb)
 - 📊 [Architecture Flow](https://drive.google.com/drive/folders/1ScI4Nlp8XQlnHtNZ0L56eic655QKHEHM?usp=sharing)
