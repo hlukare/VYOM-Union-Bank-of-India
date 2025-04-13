@@ -129,4 +129,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 💡 Built for Union Bank of India to revolutionize customer service through AI.
