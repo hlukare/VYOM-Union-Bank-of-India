@@ -94,23 +94,23 @@ def generate_ticket(
         
         # Create the flattened ticket
         ticket = {
-            # "ticket_id": f"TKT-{query_id[:8]}",
-            # "query_id": query_id,
-            # "query_type": query_type,
-            # "branch_id": branch_id,
-            # "query_level": query_level,
-            # "role_level":query_level,
-            # "role_name": role_name,  # Add this if required
-            # "branch_level": branch_level,
-            # "department": department,
-            # "service_type": service_type,
-            # "request_category": request_category,
+            "ticket_id": f"TKT-{query_id[:8]}",
+            "query_id": query_id,
+            "query_type": query_type,
+            "branch_id": branch_id,
+            "query_level": query_level,
+            "role_level":query_level,
+            "role_name": role_name,  # Add this if required
+            "branch_level": branch_level,
+            "department": department,
+            "service_type": service_type,
+            "request_category": request_category,
             "transcribed_text": transcribed_text,
             "translated_query": translated_query,
             "detected_language": detected_language,
-            # "priority": priority,
-            #"created_at": timestamp,
-            #"last_updated_at": timestamp
+            "priority": priority,
+            "created_at": timestamp,
+            "last_updated_at": timestamp
         }
 
         

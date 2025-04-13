@@ -3,10 +3,10 @@ from PIL import Image
 from io import BytesIO
 
 # Hugging Face API token
-api_token = "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"  # Replace with your Hugging Face API token
+api_token = "replace-with-your-api-key"  # Replace with your Hugging Face API token
 
 # Define the URL for the Hugging Face Inference API
-url = "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5"
+url = "place-url-here"
 
 # Define headers for authentication
 headers = {

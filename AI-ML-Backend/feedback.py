@@ -6,7 +6,7 @@ from groq import Groq  # Ensure you have installed groq SDK using: pip install g
 app = Flask(__name__)
 
 # Initialize Groq client with API key
-client = Groq(api_key="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")  # Replace with your actual API key
+client = Groq(api_key="replace-with-your-api-key")  # Replace with your actual API key
 
 @app.route('/feedback', methods=['POST'])
 def analyze_feedback():
